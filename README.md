@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarwanKsr
+- 👀 I’m interested in c# and .net core
+- 🌱 I’m currently learning c# and .net core
+- 📫 you can reach me via marwan.kaseer1997@gmail.com
