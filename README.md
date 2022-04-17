@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MarwanKsr
-- 👀 I'm working as Electronic Engineer at Dekra Elektronik right now
 - 🌱 I’m currently learning c# and .net core
 - 📫 you can reach me via marwan.kaseer1997@gmail.com
 - 🌐 LinkedIn https://www.linkedin.com/in/marwankaseer/
