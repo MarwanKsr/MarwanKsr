@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarwanKsr
-- 🌱 I’m currently learning c# and .net core
+- 🌱 I’m junior backend developer
 - 📫 you can reach me via marwan.kaseer1997@gmail.com
 - 🌐 LinkedIn https://www.linkedin.com/in/marwankaseer/
